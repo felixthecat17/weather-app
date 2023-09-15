@@ -83,3 +83,14 @@ body {
   text-align: center;
   font-size: 40px;
 }
+
+
+@media only screen and (max-width: 500px){
+
+  .main-container {
+    padding: 20px;
+    width: 100%;
+  }
+  
+
+}
